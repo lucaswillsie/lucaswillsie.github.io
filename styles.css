@@ -1,0 +1,9 @@
+header { 
+    background-image: url(pattern.jpeg);
+    width: 100%;
+    text-align: center;
+    color: #f0e68c;
+    font-size: 37px;
+    font-family: helvetica;
+    font-weight: bold;
+}
